@@ -48,11 +48,11 @@ img.favourite {
   }
 
 section.banner {
-  padding-top: 110px;
+  padding-top: 90px;
   padding-bottom: 100px;
-  background: url('images/background.jpg');
+  background: url('images/ice.jpg');
   background-attachment: fixed;
-  color: #ffffff;
+  color: #A8258D;
   text-align: center;
   }
 
@@ -66,8 +66,8 @@ section.banner h1 {
   }
 
 section.about {
-  background: url('images/tile1.png');
   overflow: hidden;
+  background: url('images/Bblue.bmp');
   }
 
 section.about h2 {
@@ -76,11 +76,12 @@ section.about h2 {
 
 section.favourites {
   text-align: center;
+  background-color: #1494FD
   }
 
 section.contact {
   text-align: center;
-  background: url('images/tile2.png');
+  background: url('images/Bblue.bmp');
   }
 
 section.contact img {
