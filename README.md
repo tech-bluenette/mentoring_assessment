@@ -1,2 +1,0 @@
-tech-bluenette.github.io
-========================
