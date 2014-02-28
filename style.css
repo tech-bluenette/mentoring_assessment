@@ -76,7 +76,7 @@ section.about h2 {
 
 section.favourites {
   text-align: center;
-  background-color: #6AA3EA
+  background-color: #6AA3EA;
   }
 
 section.contact {
@@ -102,7 +102,7 @@ section.box h2, section.box h3 {
   margin: 0;
   text-align: center;
   border-bottom: 1px solid #434A5C;
-  background: #ffffff;
+  background: white;
   position: fixed;
   top: 0;
   left: 0;
