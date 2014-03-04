@@ -39,6 +39,12 @@ img.profile {
   margin-right: 20px;
   }
 
+img.profile:hover {
+  border: 3px solid black;
+    transition: width 2s;
+    -webkit-transition: width 2s; /* Safari */
+  }   
+
 img.favourite {
   border: 1px solid #A8258D;
   border-radius: 50%;
@@ -46,6 +52,12 @@ img.favourite {
   padding: 5px;
   margin: 10px;
   }
+
+img.favourite:hover {
+  border: 3px solid black;
+    transition: width 2s;
+    -webkit-transition: width 2s; /* Safari */
+  }   
 
 section.banner {
   padding-top: 90px;
